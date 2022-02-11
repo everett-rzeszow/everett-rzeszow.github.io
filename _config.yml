@@ -84,9 +84,9 @@ author:
   avatar           : "gitprofile.png"
   bio              : "Graduate Assistant"
   location         : "Darling Marine Center - Walpole, ME"
-  employer         : "UMaine"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : #"UMaine"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
