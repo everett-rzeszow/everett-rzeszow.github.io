@@ -191,6 +191,8 @@ collections:
 
 # Defaults
 defaults:
+     header:
+      image: /images/AmLobster1.jpg
   # _posts
   - scope:
       path: ""
