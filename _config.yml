@@ -83,7 +83,7 @@ author:
   name             : "Everett Rzeszowski"
   avatar           : "gitprofile.png"
   bio              : "Graduate Assistant"
-  location         : "Darling Marine Center, Walpole, ME"
+  location         : "Darling Marine Center - Walpole, ME"
   employer         : #"UMaine"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/everett.rzeszowski.7"
+  facebook         : #"https://www.facebook.com/everett.rzeszowski.7"
   foursquare       :
   github           : "everett-rzeszow"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/everett-rzeszowski-71b575185/"
+  linkedin         : #"https://www.linkedin.com/in/everett-rzeszowski-71b575185/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
