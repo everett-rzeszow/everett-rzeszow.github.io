@@ -1,10 +1,10 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant - Bowdoin College"
 collection: teaching
-type: "Introduction to Oceanography"
+type: "Teaching Assistant, Jan. 2019- June 2020"
 permalink: /teaching/Teaching-Assistant
-venue: "Bowdoin College, Earth and Oceanographic Studies"
-date: "January, 2019- June 2020"
+venue: "Bowdoin College, Earth and Oceanographic Studies, Introduction to Oceanography"
+date: 
 location: "Brunswick, Maine"
 ---
 
