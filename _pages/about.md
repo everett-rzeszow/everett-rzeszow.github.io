@@ -2,6 +2,10 @@
 permalink: /
 title: "Hello 🤙"
 excerpt: "About me"
+header:
+  overlay_image: AmLobster1.jpeg
+  #overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
+  #caption: "Photo credit"
 author_profile: true
 redirect_from: 
   - /about/
