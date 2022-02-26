@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant, Jan. 2019- June 2020"
 permalink: /teaching/Teaching-Assistant
 venue: "Bowdoin College, Earth and Oceanographic Studies, Introduction to Oceanography"
-date: 
+date: ""
 location: "Brunswick, Maine"
 ---
 
