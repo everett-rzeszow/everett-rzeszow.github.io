@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my academic blog!"
+title: "Welcome to my research blog!"
 excerpt: "Topics may include lobster research, mark-recapture, offshore wind monitoring, stakeholder engagement and more"
 header:
   overlay_image: AmLobster1a.png
@@ -14,7 +14,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello 🤙,my name is Everett. I am a graduate student in the Brady Lab at UMaine's Darling Marine Center. My work is based in environmental and resource monitoring for offshore wind development. Specifically, I study small-scall lobster population dynamics to measure local fishery abundance. 
+Hello 🤙, my name is Everett. I am a graduate student in the Brady Lab at UMaine's Darling Marine Center. My work is based in environmental and resource monitoring for offshore wind development. Specifically, I study small-scall lobster population dynamics to measure local fishery abundance. 
 
 
 I hope you enjoy this journey.
