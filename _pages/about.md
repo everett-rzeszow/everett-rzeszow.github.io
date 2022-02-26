@@ -1,11 +1,13 @@
 ---
 permalink: /
 title: "Welcome to my academic blog!"
-excerpt: "About me"
+excerpt: "Topics may include lobster research, mark-recapture, offshore wind monitoring, stakeholder engagement and more"
 header:
   overlay_image: AmLobster1a.png
   overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
   caption: "Google Images"
+  height: 500px
+  width: 1200px
 author_profile: true
 redirect_from: 
   - /about/
