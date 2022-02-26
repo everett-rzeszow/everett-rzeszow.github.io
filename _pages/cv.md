@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Cirriculum Vitae"
+title: "Curriculum Vitae"
 permalink: /cv/
 header:
   overlay_image: CVheader.png
