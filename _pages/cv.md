@@ -1,7 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: "Cirriculum Vitae"
 permalink: /cv/
+header:
+  overlay_image: CVheader.png
+  overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
+  caption: "Everett Rzeszowski"
+  height: 500px
+  width: 1200px
 author_profile: true
 redirect_from:
   - /resume
