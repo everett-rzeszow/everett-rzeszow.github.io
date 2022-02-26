@@ -3,8 +3,7 @@ permalink: /
 title: "Hello 🤙"
 excerpt: "About me"
 header:
-  overlay_image: /images/AmLobster1.jpeg
-  overlay_filter: 0.2
+  overlay_image: AmLobster1a.png
 author_profile: true
 redirect_from: 
   - /about/
