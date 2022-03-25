@@ -1,11 +1,28 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Spring 2022 Tags Arrival'
+date: 2022-03-25
+permalink: /posts/2022/03/25/post/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - tags
+  - lobster survey
+  - update
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Today I got a chance to pick up this survey's tags from the Darling Marine Center. For this survey iteration I ordered 8000 tags, 12 needles, and 3 tagging guns. 
+
+[(https://everett-rzeszow.github.io/images/tag-photo.png)]
+Tags, *2000 pictured*.
+
+During the last survey it was clear that needles should be replaced frequently, i.e. at least every other haul, to prevent contaminating the needle. Between hauls the needle should be alcohol washed and dried to prevent rusting. If a needle shows signs of rusting it is best to discard the needle and use a backup. 
+
+Likewise it is important to care for the tagging guns, cleaning them to the best of one's ability between hauls. The guns are not designed for the highly corrosive marine environment and may corrode on the inside over time. To eject a tag a pin triggered by the handle pushes a tag by the T-bar end from its clip through the hollow needle and into the target. 
+
+[(https://everett-rzeszow.github.io/images/tagphoto2.png)]
+
+
+### That's all cool, but how do you tag a lobster?
+
+To actually tag a lobster (🦞!) you hold the lobster in one hand and use your thumb to lightly push its carapace (shell, head, cephalothorax, etc.) forward and use your fingers to gently hold the tail. It is easiest if you can get the lobster to form a 'J' shape in your hand. Insert the needle under the carapace into the soft white flesh. To prevent piercing vital organs or the nervous system, the needle should be offset from the center of the lobster so that the tag is placed about halfway between the centerline and edge of the shell. The needle should be inserted with slight angling towards the anterior of the lobster and should not be fully inserted. The depth of insertion will be determined by the size of the lobster (while to pierce the musculature of a hardshelled 110 mm. carapace length lobster you may use 3/4 of the needle, inserting the needle that deep into a 60 mm. lobster will affect behavior and may induce mortality). Turn the gun slightly counter-clockwise as the trigger is pulled to set the tag in place and then pull the needle out cleanly. Give the tag a *light* tug and release the lobster.
+
+[(https://everett-rzeszow.github.io/images/taggedbugs.png)]
+Properly tagged sublegal lobsters.
