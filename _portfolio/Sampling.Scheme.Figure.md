@@ -1,7 +1,10 @@
 ---
 title: "Sampling Scheme"
-excerpt: "Graphical representation of the spring sampling scheme 1<br/><img src='/images/Sampling.Scheme.png'>"
+excerpt: "Graphical representation of the spring 2022 sampling scheme <br/><img src='/images/Sampling.Scheme.png'>"
 collection: figures
+tags: - survey update
+- science communication
+- R
 ---
 
 [![Click to view](https://everett-rzeszow.github.io/images/Sampling.Scheme.png)](https://everett-rzeszow.github.io/images/Sampling.Scheme.png)
