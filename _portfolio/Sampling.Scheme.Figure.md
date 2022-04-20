@@ -1,5 +1,6 @@
 ---
 title: "Sampling Scheme"
+date: 2022-04-20
 excerpt: "Graphical representation of the spring 2022 sampling scheme <br/><img src='/images/Sampling.Scheme.png'>"
 collection: figures
 tags: - survey update
