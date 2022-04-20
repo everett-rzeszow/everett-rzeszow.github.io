@@ -2,9 +2,6 @@
 title: "Sampling Scheme"
 excerpt: "Graphical representation of the spring sampling scheme 1<br/><img src='/images/Sampling.Scheme.png'>"
 collection: portfolio
-tags: - survey design
-- science communication
-- R
 ---
 
 [![Click to view](https://everett-rzeszow.github.io/images/Sampling.Scheme.png)](https://everett-rzeszow.github.io/images/Sampling.Scheme.png)
