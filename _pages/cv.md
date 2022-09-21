@@ -63,7 +63,11 @@ Skills and Certificates
   * HPLC and IFCB analyses
   * Plankton/ macroalgae microscopy
 * Certificates
-  * PADI Open Water Diver, AquaDiving Academy (expected April 2022)
+  * PADI Advanced Open Water Diver, University of Maine (September 2022)
+  * PADI Rescue Diver, University of Maine (September 2022)
+  * AAUS Science Diver, University of Maine (September 2022)
+  * DAN Diving First Aid for Professional Divers, (August 2022)   
+  * PADI Open Water Diver, AquaDiving Academy / University of Maine  (June 2022)
   * Protected Species Observers, AIS (July 2021)
   * Glider Technology Camp, Rutgers University (June 2019) 
 
@@ -85,6 +89,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Synergistic Activities
 ======
-* Currently signed in to 43 different slack teams
+* University of Maine Professional Development Club, council (2022)
+* American Fisheries Society, member (2022)
