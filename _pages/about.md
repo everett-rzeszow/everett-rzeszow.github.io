@@ -18,8 +18,3 @@ Hello 🤙, my name is Everett. I am a graduate student in the Brady Lab at UMai
 
 
 I hope you enjoy this journey.
-
-
-```{html}
-<span style="color: #382110">my read shelf:</span><br/><a href="https://www.goodreads.com/review/list/150771251?shelf=read" title="Everett Rzeszowski's book recommendations, liked quotes, book clubs, book lists (read shelf)", rel="nofollow"><img border="0" alt="Everett Rzeszowski's book recommendations, liked quotes, book clubs, book lists (read shelf)" src="https://s.gr-assets.com/images/badge/badge1.jpg"></a>
-```
