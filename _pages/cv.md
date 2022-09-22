@@ -89,7 +89,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Synergistic Activities
+Activities
 ======
+* **[Personal Dive Log](https://docs.google.com/document/d/1Uit20s0fPREZbLwAcbeLvF3vQEJ2o3d6OPZXEQY66SM/edit?usp=sharing)**
 * University of Maine Professional Development Club, council (2022)
 * American Fisheries Society, member (2022)
