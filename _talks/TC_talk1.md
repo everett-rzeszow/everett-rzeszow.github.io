@@ -8,4 +8,4 @@ date: 2024-02-15
 location: "Remote"
 ---
 
-[![Click to view presentation](https://everett-rzeszow.github.io/files/Measurement_Error_TC.pdf "Estimating Observation Errors from Tag Data")]
+[![Click to view presentation]](https://everett-rzeszow.github.io/files/Measurement_Error_TC.pdf "Estimating Observation Errors from Tag Data")
