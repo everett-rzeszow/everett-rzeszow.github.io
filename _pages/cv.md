@@ -92,5 +92,10 @@ Teaching
 Activities
 ======
 * **[Personal Dive Log](https://docs.google.com/document/d/1Uit20s0fPREZbLwAcbeLvF3vQEJ2o3d6OPZXEQY66SM/edit?usp=sharing)**
-* University of Maine Professional Development Club, council (2022)
-* American Fisheries Society, member (2022)
+* University of Maine, School of Marine Sciences, Professional Development Club, council (2022-2024)
+* University of Maine, School of Marine Sciences, Graduate Student Symposium Planning Committee (2022-2024),
+* American Fisheries Society, member (2022-2024)
+
+Grants
+======
+
