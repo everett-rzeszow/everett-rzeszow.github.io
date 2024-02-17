@@ -8,4 +8,4 @@ date: 2023-10-26
 location: "Fremantle, WA, Australia"
 ---
 
-[![Click to view presentation](https://everett-rzeszow.github.io/files/GAMs_Monhegan_IWCL.pdf "Incorporating Environmental Variability in BACI Modeling of American Lobster Catch Dynamics")]
+[![Click to view presentation]](https://everett-rzeszow.github.io/files/GAMs_Monhegan_IWCL.pdf "Incorporating Environmental Variability in BACI Modeling of American Lobster Catch Dynamics")
